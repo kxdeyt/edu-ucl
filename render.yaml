@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: kxde
+    env: docker
+    plan: free
